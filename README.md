@@ -2,6 +2,8 @@
 
 Boiler plate for a serverless Single Page Application, using s3, cloud formation (HTTPS request), route53  
 
+## Currently under construction 
+
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
